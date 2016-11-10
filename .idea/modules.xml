@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OrderListLib/OrderListLib.iml" filepath="$PROJECT_DIR$/OrderListLib/OrderListLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrderListLibrary.iml" filepath="$PROJECT_DIR$/OrderListLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
